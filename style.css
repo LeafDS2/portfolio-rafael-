@@ -34,7 +34,7 @@ header {
 .botao-curriculo {
   display: inline-block;
   background: white;
-  color: #4CAF50;
+  color: #d311b3;
   padding: 10px 20px;
   margin-top: 15px;
   border-radius: 30px;
@@ -44,7 +44,7 @@ header {
 }
 
 .botao-curriculo:hover {
-  background: #e0e0e0;
+  background: #b91ace;
 }
 
 section {
@@ -107,7 +107,7 @@ form button:hover {
   top: 20px;
   right: 20px;
   background: #ffffffaa;
-  color: #333;
+  color: #b91ace;
   padding: 8px 15px;
   border-radius: 20px;
   border: none;
