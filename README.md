@@ -10,5 +10,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 
 
-- Acesse: (https://www.jw.org/Pt)
+- Acesse: (https://www.jw.org/Pt" target="_blank")
   
